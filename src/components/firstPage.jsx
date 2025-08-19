@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePic from '../assets/profile.png';
+import ProfilePic from '../assets/Profile.png';
 import { useTheme } from '../ThemeContext';
 
 const FirstPage = () => {
